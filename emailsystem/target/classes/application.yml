@@ -1,0 +1,14 @@
+
+
+spring:
+  mail:
+    host: smtp.126.com
+    username: donghuangstudio@126.com
+    password: Hy19961819918 #授权码
+    default-encoding: UTF-8
+    #port: 465
+
+
+
+
+
